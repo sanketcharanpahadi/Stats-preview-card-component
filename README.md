@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-flexbox-mediaqueries-NfHh01G8R)
-- Live Site URL: [Add live site URL here](https://sanketcharanpahadi.github.io/Stats-preview-card-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/css-flexbox-mediaqueries-NfHh01G8R](https://www.frontendmentor.io/solutions/css-flexbox-mediaqueries-NfHh01G8R)
+- Live Site URL: [https://sanketcharanpahadi.github.io/Stats-preview-card-component/](https://sanketcharanpahadi.github.io/Stats-preview-card-component/)
 
 ## My process
 
